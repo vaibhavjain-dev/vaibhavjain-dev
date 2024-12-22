@@ -10,33 +10,41 @@
 
 ### 🌟 About Me
 
-I'm a **curious student and aspiring Web3 Developer** with a keen interest in blockchain technology and decentralized finance (DeFi). My journey into this exciting field is fueled by a desire to learn and adapt quickly to the ever-evolving landscape of technology.
+I'm a **17-year-old self-taught developer** from Ahmednagar, India, with a strong passion for **Web3** and **blockchain development**. Currently, I am a **Junior Associate at Web3Samaj**, where I engage in technical development, community building, and mentorship. My journey into the world of decentralized systems is fueled by a fascination with their transformative potential and the impact they can have on our lives.
 
 ---
 
-### 💡 Skills & Technologies
+### 💡 Interests
 
-- **Languages:** C, C++, Python, Solidity, Rust (beginner)
-- **Frameworks:** Hardhat, Truffle, Web3.js
-- **Blockchain Platforms:** Ethereum, Binance Smart Chain, Polygon
-- **Tools:** Git, Docker, Remix IDE
-- **Concepts:** Smart Contracts, Decentralized Applications (dApps), NFT Development, DeFi Protocols
+I am deeply interested in various topics surrounding:
 
----
+- **Decentralization & Innovation** 🚀
+- **Decentralized Finance (DeFi)** 🪙
+- **Smart Contracts & Tokenomics**
+- **Crypto & Finance**
+- **Economics & Business Development**
+- **Physics & Astrophysics**
 
-### 🚀 Learning Journey
-
-As I embark on my journey in the world of Web3 and blockchain, I am focused on:
-
-- **Deepening my understanding of DeFi**: Exploring the mechanics of decentralized finance and its potential to revolutionize traditional finance.
-- **Building dApps**: Gaining hands-on experience in developing decentralized applications that can solve real-world problems.
-- **Engaging with the community**: Participating in hackathons, forums, and discussions to learn from others and share knowledge.
+I am particularly inspired by the work of Satoshi Nakamoto and strive to contribute to the crypto and Web3 community by exploring how these technologies can reshape finance and banking.
 
 ---
 
-### 🏆 Achievements & Trophies
+### 💼 Experience
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavjain-dev&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+**Junior Associate**  
+*Web3Samaj*  
+*Mar 2024 - Present*  
+As a Junior Associate, I am involved in developing and implementing innovative Web3 projects, participating in global hackathons, and collaborating with diverse individuals to bring their Web3 ideas to fruition. I take pride in empowering beginners and freshers to dive into Web3 development, helping them navigate this complex landscape.
+
+---
+
+### 📈 Learning Journey
+
+I am always on the lookout for new challenges and opportunities to learn. My current focus includes:
+
+- **Deepening my understanding of blockchain technologies**
+- **Building decentralized applications (dApps)**
+- **Engaging with the community to foster innovation**
 
 ---
 
@@ -50,7 +58,7 @@ I enjoy sharing my learning experiences and insights through writing. Check out 
 
 ### 🤝 Let's Connect!
 
-I'm always eager to connect with fellow developers, blockchain enthusiasts, and anyone interested in the decentralized future! Feel free to reach out to me through my [Socials Profile](https://www.soshals.app/vaibhavjain_dev).
+I'm eager to connect with fellow developers, blockchain enthusiasts, and anyone interested in the decentralized future! Feel free to reach out to me through my [Socials Profile](https://www.soshals.app/vaibhavjain_dev).
 
 ---
 
