@@ -28,18 +28,24 @@
 
 ---
 
-<h3 align="center">🐒 Blockchain Engineer (Core Teammate) at <a href="https://monkeys.com.co/" target="_blank">Monkeys</a></h3>
+<h3 align="center">🐒 Engineer of Everything • Chaos Division @ <a href="https://github.com/the-monkeys" target="_blank">Monkeys</a></h3>
 
 <p align="center">
   <a href="https://monkeys.com.co/" target="_blank">
-    <img src="https://monkeys.com.co/_next/image?url=%2Fmonkeys-banner.png&w=1200&q=75" alt="Monkeys Banner" width="85%" />
+    <img src="https://github.com/vaibhavjain-dev/vaibhavjain-dev/blob/main/Monkeys%20Banner.png?raw=true" alt="Monkeys Banner" width="85%" style="border-radius:12px;"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://monkeys.com.co/" target="_blank"><b>Monkeys.com.co</b></a> is an open playground for devs and thinkers.  
-  We build, write, and share experiments that push what’s possible on the internet.  
-  Dive into ideas → <a href="https://monkeys.com.co/feed" target="_blank"><b>monkeys.com.co/blogs</b></a>
+  <b>Monkeys</b>: Inspire, Inform, Innovate.  
+  Collaborate, connect, inspire, and make a lasting impact.  
+  At <a href="https://monkeys.com.co/" target="_blank"><b>Monkeys</b></a>, we believe that great content can shape minds and spark change.  
+  Our platform empowers creators to post with purpose—sharing insights, stories, and knowledge that are accessible to all.  
+  Explore diverse perspectives, broaden your understanding, and contribute to a community driven by curiosity and growth.  
+  <br><br>
+  Start your journey with <b>Monkeys</b> today — create, collaborate, and share without limits.  
+  <br>
+  Explore our open-source projects → <a href="https://github.com/the-monkeys" target="_blank"><b>github.com/the-monkeys</b></a>
 </p>
 
 ---
