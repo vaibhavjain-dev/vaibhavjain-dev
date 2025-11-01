@@ -76,6 +76,16 @@
 
 ---
 
+<h3 align="center">📊 LeetCode Stats</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/vaibhavJain_dev/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/vaibhavJain-dev?theme=dark&font=baloo&ext=contest" alt="Vaibhav Jain LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://x.com/vaibhavjain_dev" target="_blank" rel="noopener">
